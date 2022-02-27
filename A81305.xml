@@ -1,0 +1,326 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seven arguments to prove, that in order of working God doth justifie his elect, before they doe actually beleeve With some answers to the objections that some make against the same. For the confirmation of those that doe truly beleeve, lest they should attribute any part of the office of Christ to the act of their beleeving.</title>
+            <author>Denne, Henry, 1606 or 7-1660?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81305</idno>
+            <idno type="STC">Wing D1024A</idno>
+            <idno type="STC">ESTC R230240</idno>
+            <idno type="EEBO-CITATION">99896231</idno>
+            <idno type="PROQUEST">99896231</idno>
+            <idno type="VID">153900</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153900)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2387:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seven arguments to prove, that in order of working God doth justifie his elect, before they doe actually beleeve With some answers to the objections that some make against the same. For the confirmation of those that doe truly beleeve, lest they should attribute any part of the office of Christ to the act of their beleeving.</title>
+                  <author>Denne, Henry, 1606 or 7-1660?</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: H.D.</note>
+                  <note>H.D. = Henry Denne--Wing (CD-ROM edition).</note>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Congregational Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Justification --  Early works to 1800.</term>
+               <term>Predestination --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153900:1" rendition="simple:additions"/>
+            <p>SEVEN ARGUMENTS to prove, that in order of working God doth juſtifie his Elect, before they doe actually beleeve.</p>
+            <p>With ſome Anſwers to the Objections that ſome make againſt the ſame.</p>
+            <p>For the confirmation of thoſe that doe truly beleeve, leſt they ſhould attribute any part of the Office of Chriſt to the <hi>act of their beleeving.</hi>
+            </p>
+            <q>
+               <bibl>Ezekiel 16. 2, 3, 4, 5, 6.</bibl>
+               <p>Sonne of man, cauſe Ieruſalem to know her abominations. And ſay, Thus ſaith the Lord God unto Ieruſalem, Thy <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>th and thy nativitie is of the land of Canaan, thy father <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as an Amorite, and thy mother an Hittite.</p>
+               <p>And as for thy nativitie, in the day that thou waſt borne, <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y navill was not cut, neither waſt thou waſhed in water to <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pple thee, thou waſt not ſalted at all, nor ſwadled at all.</p>
+               <p>None eye pittied thee, to doe any of theſe things unto thee, <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t thou wast cast into the open field, to the loathing of thy <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſon, in the day that thou wast borne.</p>
+               <p>And when I paſsed by thee, and ſaw thee polluted in thine <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne blood, I ſaid unto thee when thou waſt in thy blood, Live: <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, I ſaid unto thee when thou waſt in thy blood, Live.</p>
+            </q>
+            <p>Printed in the yeare 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153900:2"/>
+            <pb n="1" facs="tcp:153900:2"/>
+            <head>SEVEN ARGVMENTS, to prove, that in order of working God doth iuſtifie his Elect, before they doe <hi>actually beleeve.</hi>
+            </head>
+            <head type="sub">With ſome Anſwers to the Objections <hi>that ſome make againſt the ſame.</hi>
+            </head>
+            <p>THis Propoſition being contradicted, <hi>VVe are juſtified before God, before the act of our beleeving:</hi> This is the Propoſition which I doe now undertake to vindicate, by the aſſiſtance of the Father of our Lord Jeſus Chriſt, whoſe honour is not a little concerned in it. I will firſt of all lay downe ſeven Arguments for the confirma<g ref="char:EOLhyphen"/>tion of the Truth: and then I will anſwer
+<pb n="2" facs="tcp:153900:3"/>
+unto five Objections, brought by ſome a<g ref="char:EOLhyphen"/>g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inſt it.</p>
+            <div type="proposition">
+               <head>The Propoſition;</head>
+               <p>
+                  <hi>We are juſtified before God, before the a<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of our beleeving.</hi>
+               </p>
+               <div n="1" type="argument">
+                  <head>Argument I.</head>
+                  <p>LEt me ſpeake for thoſe that are not abl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to ſpeake for themſelves; I meane th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> little Babes, to whom belongs the King<g ref="char:EOLhyphen"/>dome of God. I argue thus: <hi>Infants do<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> not beleeve; But Infants are justified: There<g ref="char:EOLhyphen"/>fore ſome that doe not beleeve, are juſtified:</hi> Which if it be granted, it will follow, tha<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſome are juſtified before they beleeve. Tha<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Infants are juſtified, need no proofe; Tha<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Infants beleeve not, muſt be proved, (<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>though the Church of <hi>England</hi> hath lon<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſince put it out of doubt.) Firſt, <hi>Faith com<g ref="char:EOLunhyphen"/>meth by hearing,</hi> Rom. 10. 17. <hi>How ſh<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> they beleeve in him of whom they have n<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> heard?</hi> Shall wee ſay, that Infants in th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Wombe heare the Word? Secondly, Fait<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is a Knowledge, as ſome ſay; a Perſwaſion as others; a T<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſt, as others: But Infan<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <pb n="3" facs="tcp:153900:3"/>
+are capable neither of Truſt, Perſwaſion, O<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Knowledge; therefore Infants are not ca<g ref="char:EOLhyphen"/>pable of Faith. But ſome have ſaid, That Infants heare the Word of God, beleeve in God, and love God, in an un<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nowne, way; is ſometimes <hi>John Baptiſt</hi> ſprang in his Mo<g ref="char:EOLhyphen"/>thers Wombe for joy, at the ſalutation of the Bleſſed Virgin: But Saint <hi>Auguſtin<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> did anſwere long agoe, not more wittily then truly, That <hi>this was done by a ſingular Miracle.</hi> Neither doth this conclude, other Infants to beleeve any more, then wee may conclude, all Aſſes to be good Counſellors, becauſe wee reade, that <hi>Balaams</hi> Aſſe ſpake more wiſely then her Maſter.</p>
+               </div>
+               <div n="2" type="argument">
+                  <head>Argument II.</head>
+                  <p>HE <hi>that is in Chriſt, is juſtified; But we muſt be in Chriſt, before we can beleeve: Therefore we must be juſtified, before we can beleeve.</hi> The <hi>Major</hi> is plaine, the <hi>Minor</hi> is proved, That we moſt be in Chriſt before we can beleeve: <hi>To beleeve, is a fruit of the Spirit,</hi> Gal. 5. But wee muſt be in Chriſt, before wee can bare fruit; Therefore wee muſt be in Chriſt, before wee can beleeve.
+<pb n="4" facs="tcp:153900:4"/>
+                     <hi>Joh. 15. 4. As the Branch cannot beare frui<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of it ſelfe, except it abide in the Vine, <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> more can yee, except yee abide in me.</hi> Se<g ref="char:EOLhyphen"/>condly, if Faith be a good fruit, it is requi<g ref="char:EOLhyphen"/>red, that men muſt be good Trees, before they can bring it forth; otherwiſe, <hi>Grape<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> ſhould be gathered of <hi>Thornes,</hi> and <hi>Figge<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> of <hi>Thistles,</hi> Matth. 12. 33. If you will, the Argument may be this: <hi>He that hath th<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Spirit of Chriſt, hath Christ; But wee have the Spirit before wee beleeve; Therefore we<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> have Chriſt before wee beleeve.</hi>
+                  </p>
+               </div>
+               <div n="3" type="argument">
+                  <head>Argument III.</head>
+                  <p>
+                     <hi>ALL the Elect of God are juſtified be<g ref="char:EOLhyphen"/>fore God; But ſome of the Elect of God doe not yet beleeve: Therefore ſome that doe not beleeve, are juſtified before God; and ſo by conſequence, before they beleeve.</hi> The <hi>Major</hi> is proved: <hi>They that cannot be char<g ref="char:EOLhyphen"/>ged with any thing, are juſtified; But none of the Elect of God can be charged with any thing: Therefore the Elect are justified.</hi> The <hi>Minor</hi> is proved; <hi>Who ſhall lay any thing to the charge of Gods Elect? it is God that
+<pb n="5" facs="tcp:153900:4"/>
+justifies: Who is hee that condemneth? it is Christ that dyed, yea, rather that is riſen a<g ref="char:EOLhyphen"/>gaine,</hi> Rom. 8. 33. <hi>He roſe againe for our juſtification,</hi> Rom. 4. 23.</p>
+               </div>
+               <div n="4" type="argument">
+                  <head>Argument IV.</head>
+                  <p>
+                     <hi>THey that have their ſinnes taken away, are juſtified; But the Elect have their ſinnes taken away before they beleeve:</hi> Ergo, <hi>The Elect are juſtified before they beleeve.</hi> The <hi>Major</hi> is proved: <hi>Bleſſed is the man whoſe iniquitie is forgiven, and whoſe ſinne is covered,</hi> Rom. 4. 7. The <hi>Minor;</hi> That the Elect have their ſinnes taken away before they beleeve, is proved <hi>Joh.</hi> 1. 29. <hi>Behold the Lambe of God that takes away the ſinnes of the world;</hi> and <hi>Eſay</hi> 35. 8. <hi>The Lord hath layd on him the iniquities of us all;</hi> and 1 <hi>Pet. 2. 24. Himſelfe bare our ſinnes in his owne body on the Tree;</hi> and <hi>Rom. 6. 6. Our old man is crucified with him, that the body of ſinne might be deſtroyed.</hi> Did Chriſt take away ſinne, or not? Did hee beare them? Did hee deſtroy the body of ſinne? If you ſay, No; how will you eſcape the
+<pb n="6" facs="tcp:153900:5"/>
+Sword of the Spirit? If you ſay, Yea; I de<g ref="char:EOLhyphen"/>ſire no more.</p>
+               </div>
+               <div n="5" type="argument">
+                  <head>Argument V.</head>
+                  <p>
+                     <hi>WE were made ſinners in the first</hi> A<g ref="char:EOLhyphen"/>dam, <hi>before we had done good or evill; Therefore we are made righteous in the ſe<g ref="char:EOLhyphen"/>cond</hi> Adam, <hi>before we have done good or evill.</hi> This conſequence is proved. <hi>Rom. 5. 18, 19. As by the offence of one, Judgement came upon all men to Condemnation; even ſo by the righteouſneſſe of one, the free gift came upon all men unto juſtification of life: for as by one mans diſobedience many were made ſinners, ſo by the obedience of one ſhall many be made righteous.</hi> If you ſhall place the <hi>Emphaſis</hi> of this Text, in <hi>All,</hi> and <hi>Many,</hi> you will cauſe the hearts of the univerſall Gratians to leape for joy; which (I beleeve) you would not willingly doe. Therefore you muſt be forced to place the <hi>Emphaſis</hi> in <hi>As,</hi> and <hi>So: As</hi> wee ſinned all in the loynes of the firſt <hi>A<g ref="char:EOLhyphen"/>dam, So</hi> were wee all made righteous in the loynes of the ſecond <hi>Adam, The
+<pb n="7" facs="tcp:153900:5"/>
+Lord Christ.</hi> And this agreeth with the Miniſterie of Reconciliation; to wit, That <hi>God was in Christ, reconciling the world to himſelfe, not imputing their treſpaſſes unto them,</hi> 2 Cor. 5. 19. Truly, this Argument was of ſo great force, that it did wring out of Cardinall <hi>Bellarmine</hi> this confeſſi<g ref="char:EOLhyphen"/>on, as the Apoſtle teacheth, <hi>Rom.</hi> 5. That <hi>Chriſt may be put on, without a proper act of our ſoule:</hi> I confeſſe, I differ from the Cardinall, in his meanes of putting on Chriſt; yet this his confeſſion I acknow<g ref="char:EOLhyphen"/>ledge to be true.</p>
+               </div>
+               <div n="6" type="argument">
+                  <head>Argument VI.</head>
+                  <p>
+                     <hi>WHere there is full ſatisfaction made, and the partie offended accepting that ſatisfaction, and contented to rest in it, there muſt needes follow perfect remiſſion of ſinnes; But in Chriſt crucified</hi> (before we beleeved) <hi>was full ſatisfaction made, and God was con<g ref="char:EOLhyphen"/>tented to reſt in that ſatisfaction: Therefore there will follow perfect remiſſion of ſinnes,</hi> &amp;c. Firſt, that there was full ſatisfaction made in Chriſt, is proved <hi>Heb. 10. 11, 12, 13, 14, verſ.</hi>
+                     <pb n="8" facs="tcp:153900:6"/>
+For by one offering hee hath perfected for ever them that are ſanctified. But the ſe<g ref="char:EOLhyphen"/>cond, that God is therewith contented to reſt in that ſatisfaction, wee have the wit<g ref="char:EOLhyphen"/>neſſe of the Father, <hi>Matth. 3. 17. This is my beloved Sonne in whom I am well plea<g ref="char:EOLhyphen"/>ſed. Aquieſco,</hi> ſaith <hi>Beza.</hi> See <hi>Eſay 53. 11. Hee ſhall ſee the travaile of his ſoule, and ſhall be ſatisfied.</hi>
+                  </p>
+               </div>
+               <div n="7" type="argument">
+                  <head>Argument VII.</head>
+                  <p>IF wee are not juſtified in his ſight before wee beleeve, then are wee unjuſt ſinners, workers of iniquitie; then doth the Lord hate us, for <hi>hee hateth all the workers of ini<g ref="char:EOLhyphen"/>quitie,</hi> Pſal. 5. You know what abſurditie will follow, if you ſay, wee muſt beleeve before God can love us: But if God hate us to day, and love us to morrow, let <hi>Ar<g ref="char:EOLhyphen"/>minius</hi> with his diſciples heare this, and wonder, why they ſhould be blamed that ſay; Wee may be loved to day, and hated to morrow; Children of God to day, and of the Devill to morrow: when they who would ſeeme their greateſt Adverſaries,
+<pb n="9" facs="tcp:153900:6"/>
+will not ſpare to ſay; Wee may be hated to day, and loved to morrow; the Children of the Devill to day, and of God to mor<g ref="char:EOLhyphen"/>row. But that God <hi>loved us firſt,</hi> before wee beleeved, when wee were enemies, <hi>in our bloud,</hi> &amp;c. is ſo plaine, that I will not willingly ſo diſhonour you, as once to con<g ref="char:EOLhyphen"/>ceive that you will denie it.</p>
+                  <p>Here is an end of the ſeven Arguments; which (if need had required) might have beene ſeventie. Now I will anſwer the Objections.</p>
+               </div>
+               <div n="1" type="objection">
+                  <head>Objection 1.</head>
+                  <p>
+                     <hi>VVee are juſtified by Faith;</hi> therefore, not before Faith.</p>
+                  <p>
+                     <label>Anſwer.</label>
+                     <lb/>
+                     <list>
+                        <item>Firſt, it ſhould have concluded, not be<g ref="char:EOLhyphen"/>fore the act of beleeving.</item>
+                        <item>Secondly, I denie the conſequence, and ſay, wee may be juſtified both by it, and yet before, in a different ſenſe.</item>
+                     </list>
+                  </p>
+                  <p>This Propoſition, <hi>VVee are juſtified by Faith,</hi> is very ambiguous. Hee was not a
+<pb n="10" facs="tcp:153900:7"/>
+Foole who (an hundred yeares ſince) ſaid, That this Propoſition was one of thoſe things, hard to be underſtood; which they that are unlearned and unſtable, wreſt as they doe other Scriptures, to their owne deſtruction, 2 <hi>Pet.</hi> 3. 16. I would our Age had not proved it true, that the miſ<g ref="char:EOLhyphen"/>underſtanding of this Propoſition hath tur<g ref="char:EOLhyphen"/>ned upſide downe the Doctrine of Juſtifi<g ref="char:EOLhyphen"/>cation amongſt pudling Preachers.</p>
+                  <p>There is in this Propoſition two words ambiguous and doubtfull:</p>
+                  <p>The firſt <hi>(Justified)</hi> which ſometimes in Scriptures ſignifieth to be reputed, rec<g ref="char:EOLhyphen"/>koned, or accounted <hi>Juſt;</hi> as, <hi>It is God that justifieth.</hi> Sometimes it is taken for to be declared, or manifeſted to be <hi>Juſt;</hi> as, <hi>By workes a man is justified,</hi> James 2. 24. If you take <hi>Justified</hi> in the firſt ſence, wee ſay, wee are not reputed or reckoned <hi>Just</hi> by the act of beleeving. If you take <hi>Justi<g ref="char:EOLhyphen"/>fied</hi> in the ſecond ſence, I ſay, wee are juſti<g ref="char:EOLhyphen"/>fied (that is, declared to be <hi>Juſt)</hi> by belee<g ref="char:EOLhyphen"/>ving; Faith manifeſting to our Conſciences, that wee are <hi>Juſt</hi> before God: By Faith wee underſtand, that God hath freely <hi>juſtified</hi> us in his Sonne.</p>
+                  <p>
+                     <pb n="11" facs="tcp:153900:7"/>
+Another word ambiguous in this Propo<g ref="char:EOLhyphen"/>ſition, is <hi>(Faith)</hi> which is diverſly taken: ſometimes for the act of Faith, or <hi>belee<g ref="char:EOLhyphen"/>ving;</hi> and ſometimes for the object of Faith, the thing <hi>beleeved:</hi> as, <hi>Faith was reckoned unto him for righteouſneſſe,</hi> Rom. 4. that is the object of Faith: So that it is all one as if hee had ſaid, God or Chriſt was reckoned to him for righteouſneſſe. If wee underſtand the act of Faith; then I ſay, as before, wee are not reckoned <hi>Just</hi> by the act of our Faith: if by Faith wee underſtand the object of our Faith; then I ſay, wee are reckoned or reputed <hi>Just</hi> by God, in, by, or through Chriſt Jeſus, our <hi>Faith.</hi>
+                  </p>
+               </div>
+               <div n="2" type="objection">
+                  <head>Objection 2.</head>
+                  <p>
+                     <hi>Hee that beleeveth not, is condemned al<g ref="char:EOLhyphen"/>readie,</hi> John 3. 18.</p>
+                  <p>
+                     <label>Anſwer.</label> This is all one with, <hi>Hee that beleeveth not, ſhall be damned:</hi> which you muſt un<g ref="char:EOLhyphen"/>derſtand of finall unbeleefe, which I grant to be a Note of Damnation.</p>
+               </div>
+               <div n="3" type="objection">
+                  <pb n="12" facs="tcp:153900:8"/>
+                  <head>Objection 3.</head>
+                  <p>
+                     <hi>Without Faith it is impoſſible to pleaſe God:</hi> therefore wee cannot be juſtified without it.</p>
+                  <p>
+                     <label>Anſwer.</label> I denie the Conſequence; and I perceive ſo will you alſo, when you pleaſe: For you will affirme, a juſtified perſon may diſpleaſe God; and then, why is it not poſſible for a man to diſpleaſe God, and yet be juſtified? To pleaſe God, is ſo to doe thoſe things which God approves in us to be well done; which wee cannot doe, without Faith. That this is the meaning of the Apoſtle, is plaine by his reaſon; <hi>For he that commeth unto God, muſt beleeve &amp;c.</hi> Wee cannot come unto God, before wee beleeve; but cannot God come unto us, before wee be<g ref="char:EOLhyphen"/>leeve. Now Juſtification is Gods act upon a ſinner, not a ſinners act upon God.</p>
+               </div>
+               <div n="4" type="objection">
+                  <p>This alſo anſwereth the fourth Objection. <hi>Whatſoever is not of Faith is ſinne.</hi>
+                  </p>
+               </div>
+               <div n="5" type="objection">
+                  <pb n="13" facs="tcp:153900:8"/>
+                  <head>Objection 5.</head>
+                  <p>
+                     <hi>VVee are by nature the Children of wrath, &amp;c.</hi>
+                  </p>
+                  <p>
+                     <label>Anſwer.</label> This were of ſome force, if you could prove us altogether in the eſtate of nature as well in Gods account as in our eſteeme, and ſo quite exempted from grace untill wee beleeve; which you cannot doe, for the Apoſtle witneſſeth the contrary, 2 <hi>Tim.</hi> 1. 9. <hi>According to his owne purpoſe and grace given us before the world began:</hi> if grace were given before the world began, ſurely before ever wee beleeved.</p>
+                  <p>God is <hi>Alpha</hi> and <hi>Omega;</hi> therefore what hee promiſeth ſhall come to paſſe to his, is done with him, <hi>Rev.</hi> 21. 6. For his works were finiſhed from the foundation of the world, <hi>Heb.</hi> 4. 3. And ſo I reſt</p>
+               </div>
+            </div>
+            <closer>
+               <signed>A Servant of Jeſus Christ to live and dye,
+<hi>H. D.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:153900:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
